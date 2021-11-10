@@ -1,4 +1,4 @@
-### Hi there 👋, Thiago Herculano
+### Hi there 👋, I'm Thiago Herculano
 #### Developer
 I'm Herculano from Brazil, and I do content on Development. I really enjoy learning languages and frameworks like JavaScript, React and Node.
 
