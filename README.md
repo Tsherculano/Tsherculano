@@ -26,7 +26,7 @@ I'm Herculano from Brazil, and I do content on Development. I really enjoy learn
   <a href = "mailto:tico.herculano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tsherculano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Tsherculano/Tsherculano/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/tsherculano/tsherculano/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
